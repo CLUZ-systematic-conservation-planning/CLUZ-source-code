@@ -8,3 +8,7 @@ It was developed by Bob Smith, from the Durrell Institute of Conservation and Ec
 
 More details about CLUZ are available here https://cluz-systematic-conservation-planning.github.io/
 
+
+
+!\[ ](forms/images/cluz\_readme\_panel.png)
+
