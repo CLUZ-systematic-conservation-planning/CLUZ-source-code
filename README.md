@@ -6,5 +6,5 @@ CLUZ (Conservation Land-Use Zoning software) is a QGIS plug-in that lets people 
 
 It was developed by Bob Smith, from the Durrell Institute of Conservation and Ecology (DICE), and supported through the UKRI Research England's Expanding Excellence in England (E3) fund.
 
-More details about CLUZ are available here https://github.com/CLUZ-systematic-conservation-planning/
+More details about CLUZ are available here https://cluz-systematic-conservation-planning.github.io/
 
