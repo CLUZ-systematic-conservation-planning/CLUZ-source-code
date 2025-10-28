@@ -10,7 +10,13 @@ More details about CLUZ are available here https://cluz-systematic-conservation-
 
 
 
-!\[ ](https://github.com/djisuk/CLUZ-source\_code/blob/main/forms/images/cluz\_readme\_panel.png?raw=true)
+<p align="center">
+
+&nbsp; <img src="https://github.com/djisuk/CLUZ-source\_code/blob/main/forms/images/cluz\_readme\_panel.png?raw=true" alt="">
+
+</p>
+
+
 
 
 
