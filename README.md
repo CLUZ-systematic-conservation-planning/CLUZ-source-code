@@ -10,5 +10,5 @@ More details about CLUZ are available here https://cluz-systematic-conservation-
 
 
 
-!\[ ](forms/images/cluz\_readme\_panel.png)
+!\[ ](images/cluz\_readme\_panel.png)
 
