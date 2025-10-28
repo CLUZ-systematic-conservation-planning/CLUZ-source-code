@@ -12,15 +12,6 @@ More details about CLUZ are available here https://cluz-systematic-conservation-
 
 
 
-<p align="center">
-
-&nbsp; <img src="https://github.com/CLUZ-systematic-conservation-planning/CLUZ-source-code/blob/main/forms/images/cluz\_readme\_panel.png?raw=true" alt="">
-
-</p>
-
-
-
-
 
 
 
