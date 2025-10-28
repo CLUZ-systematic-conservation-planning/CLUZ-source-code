@@ -1,0 +1,22 @@
+# Mandatory items:
+
+
+[general]
+name=CLUZ3
+qgisMinimumVersion=3.28
+description=CLUZ for QGIS
+about=The CLUZ (Conservation Land-Use Zoning) plugin lets people design conservation area and nature recovery networks through on-screen conservation planning. It also acts as an interface for the Marxan and Marxan with Zones software package.
+version=2025.10.22
+author=Bob Smith
+email=r.j.smith@kent.ac.uk
+experimental=True
+
+# end of mandatory metadata
+
+# Optional items:
+tags=Systematic conservation planning, spatial conservation prioritisation, Marxan, gap analysis
+homepage=https://cluz-systematic-conservation-planning.github.io/
+tracker=https://cluz-systematic-conservation-planning.github.io/
+repository=https://github.com/CLUZ-systematic-conservation-planning/CLUZ-source-code
+icon=icon.png
+
